@@ -5,10 +5,9 @@ import java.util.List;
 
 /**
  * 22. Generate Parentheses
- * <p>
+ *
  * Given `n` pairs of parentheses, write a function to generate all combinations
  * of well-formed parentheses.
- * </p>
  *
  * @author Kevin Lee
  */

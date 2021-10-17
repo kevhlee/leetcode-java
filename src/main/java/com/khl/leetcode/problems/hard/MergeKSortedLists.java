@@ -7,13 +7,13 @@ import java.util.PriorityQueue;
 
 /**
  * 23. Merge k Sorted Lists
- * <p>
+ *
  * You are given an array of `k` linked-lists `lists`, each linked-list is
  * sorted in ascending order.
- * </p>
- * <p>
+ *
  * Merge all the linked-lists into one sorted linked-list and return it.
- * </p>
+ *
+ * @author Kevin Lee
  */
 public class MergeKSortedLists {
 
