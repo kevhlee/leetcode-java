@@ -6,6 +6,8 @@ import com.khl.leetcode.common.TreeNode;
  * 226. Invert Binary Tree
  *
  * Given the `root` of a binary tree, invert the tree, and return its root.
+ *
+ * @author Kevin Lee
  */
 public class InvertBinaryTree {
 
